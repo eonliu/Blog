@@ -11,6 +11,9 @@
 - [Android 源码阅读 https://www.androidos.net.cn/sourcecode](https://www.androidos.net.cn/sourcecode)
 - [Android 源码阅读 http://androidxref.com/](http://androidxref.com/)
 - [Andriod 版本对照表](https://source.android.google.cn/setup/start/build-numbers?hl=zh-cn)
+- [Dart编程语言概述](https://dart.cn/samples)
+- [Dart开发语言概览](https://dart.cn/guides/language/language-tour)
+- [Dart语言核心库一览](https://dart.cn/guides/libraries/library-tour)
 - [Flutter中文网](https://flutterchina.club/)
 - [Flutter Widgets目录](https://flutterchina.club/widgets/)
 
