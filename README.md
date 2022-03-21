@@ -25,7 +25,7 @@
 
 # Jetpack
 
-- [ViewBinding 的使用与原理](./Jetpack/ViewBinding 的使用与原理.md)
+- [ViewBinding的使用与原理](./Jetpack/ViewBinding的使用与原理.md)
 
 # Flutter
 
