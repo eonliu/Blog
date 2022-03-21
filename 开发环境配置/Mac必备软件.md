@@ -1,5 +1,17 @@
+- [Mac软件下载网站](https://macwk.com/)
 - 截图贴图软件——[Snappy](https://apps.apple.com/us/app/snappy-snapshots-the-smart-way/id512617038?mt=12)
     - 截图之后可黏贴到桌面，并一直保持最顶部显示状态，方便对照。
+- [ClashX](https://github.com/yichengchen/clashX)
 - Markdown 笔记软件——[Typora](https://typora.io/)
 - Mac中Host管理工具——[SwitchHosts](https://github.com/oldj/SwitchHosts)
-
+- 多语言代码编辑器——[CoderRunner](https://macwk.com/soft/coderunner)
+- Mac窗口管理神器——[Magnet Pro](https://macwk.com/soft/magnet)
+- 抓包神器——[Charles](https://macwk.com/soft/charles)
+- 最好的视频下载器——[Downie](https://macwk.com/soft/downie)
+- 图示/图表/流程图绘制——[OmniGraffle Pro](https://macwk.com/soft/omnigraffle)
+- 腾讯文档
+- 滴答清单
+- FTP工具——[FileZilla](https://filezilla-project.org/)
+- 最好用的FTP客户端——[Transmit](https://macwk.com/soft/transmit)
+- SFTP/FTP客户端——[SecureFX](https://macwk.com/soft/securefx)
+- 终端模拟器/ssh客户端——[SecureCRT](https://macwk.com/soft/securecrt)
